@@ -6,12 +6,16 @@
   <body>
   <%
       int a = 20;
+
       int b = 30;
+
+      String c = "java1";
+
   %>
 
   <%
     if (a != 20) {
-
+      System.out.println (20000000);
 
   %>
 
